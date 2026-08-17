@@ -1,1 +1,1 @@
-# this is a comprihencive serease of theory and practice Questions
+# this is a comprihencive serease of theory and practice Questions for gate da and machine learning
